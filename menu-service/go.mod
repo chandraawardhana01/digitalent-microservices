@@ -1,4 +1,4 @@
-module chandraawardhana01/digitalent-microservices/menu-service
+module github.com/chandraawardhana01/digitalent-microservices/menu-service
 
 go 1.15
 
